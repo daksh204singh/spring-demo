@@ -1,2 +1,1 @@
-# Spring Demo
-* Basics Spring Demo
+# Spring Demo One
