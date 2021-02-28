@@ -1,2 +1,1 @@
-# Spring Demo
-* Spring Demo Core
+# Spring Demo MVC
